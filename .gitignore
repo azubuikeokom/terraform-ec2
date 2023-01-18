@@ -2,4 +2,4 @@
 *.tfstate
 *.tfstate.backup
 *.lock.hcl
-.tfvars
+*.tfvars
